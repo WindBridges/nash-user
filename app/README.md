@@ -1,0 +1,1 @@
+Your installed applications will live in this folder

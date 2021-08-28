@@ -1,0 +1,12 @@
+.idea
+vendor
+app
+!app/README.md
+launchbox
+!launchbox/README.md
+packages
+!packages/README.md
+storage
+!storage/README.md
+.nash-session.json
+nash.yaml
