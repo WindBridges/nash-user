@@ -1,0 +1,12 @@
+{
+  "name": "windbridges/nash-user",
+  "description": "User app directory",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Alex",
+      "email": "windbridges@gmail.com"
+    }
+  ]
+}
