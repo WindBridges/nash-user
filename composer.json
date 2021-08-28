@@ -1,7 +1,7 @@
 {
   "name": "windbridges/nash-user",
   "description": "User app directory",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
